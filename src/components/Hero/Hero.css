@@ -1,0 +1,18 @@
+h2{
+   text-align: center; 
+   padding: 70px 0;
+   font-size: 30px;
+}
+.card{
+    width: 300px;
+    text-align: center;
+    img{
+        padding: 20px;
+    }
+}
+.cards{
+    display: flex;
+    justify-content: center;
+    gap: 120px;
+    padding-bottom: 150px;
+}
